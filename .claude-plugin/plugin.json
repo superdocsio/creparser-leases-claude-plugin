@@ -1,0 +1,31 @@
+{
+  "name": "creparser-leases",
+  "displayName": "CREparser Lease Abstraction",
+  "version": "1.0.0",
+  "description": "Abstract commercial real estate leases into key terms, rent schedules, critical dates and risk flags, with every term linked to its highlighted clause in the PDF.",
+  "author": {
+    "name": "Superdocs",
+    "url": "https://www.creparser.com"
+  },
+  "homepage": "https://www.creparser.com",
+  "repository": "https://github.com/superdocsio/creparser-leases-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "real-estate",
+    "lease",
+    "lease-abstraction",
+    "cre",
+    "critical-dates"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://github.com/superdocsio/creparser-leases-claude-plugin#readme",
+  "supportUrl": "https://www.creparser.com",
+  "privacyPolicyUrl": "https://www.creparser.com/privacy",
+  "termsOfServiceUrl": "https://www.creparser.com/terms",
+  "mcpServers": {
+    "creparser-leases": {
+      "type": "http",
+      "url": "https://mcp.creparser.com/leases/mcp"
+    }
+  }
+}

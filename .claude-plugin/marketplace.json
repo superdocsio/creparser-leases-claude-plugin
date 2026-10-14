@@ -1,0 +1,15 @@
+{
+  "name": "creparser",
+  "description": "Claude plugins from CREparser, made by Superdocs.",
+  "owner": {
+    "name": "Superdocs",
+    "url": "https://www.creparser.com"
+  },
+  "plugins": [
+    {
+      "name": "creparser-leases",
+      "source": "./",
+      "description": "Abstract commercial leases into key terms, rent schedules, critical dates and risk flags, with every term linked to its highlighted clause."
+    }
+  ]
+}
