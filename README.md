@@ -15,8 +15,6 @@ and Claude Code.
 
 ## Try it
 
-Watch the [demo video](https://www.youtube.com/watch?v=W9lC6Lx4Ljk).
-
 Attach a lease and ask, for example:
 
 - "Abstract this lease."
